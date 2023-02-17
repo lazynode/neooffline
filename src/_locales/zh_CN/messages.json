@@ -78,7 +78,7 @@
         "message": "创建中"
     },
     "enterWIF": {
-        "message": "输入 WIF(私钥)"
+        "message": "输入 WIF 或公钥"
     },
     "enterEncryptedKey": {
         "message": "输入 Encrypted Key"
@@ -561,7 +561,7 @@
         "message": "导入方式"
     },
     "importKey": {
-        "message": "私钥导入"
+        "message": "密钥导入"
     },
     "importFile": {
         "message": "文件导入"

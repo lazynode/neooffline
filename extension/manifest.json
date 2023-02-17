@@ -1,6 +1,6 @@
 {
-    "name": "NeoLine",
-    "description": "NEO thin wallet for chrome extension",
+    "name": "NeoOffLine",
+    "description": "yet another NEO thin wallet for chrome extension",
     "version": "3.6.3",
     "manifest_version": 3,
     "action": {
