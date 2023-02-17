@@ -121,6 +121,7 @@ export class PopupWalletImportComponent
     public submitImport(): void {
         if (this.importType === '0') {
             if (
+                !this.neonWallet.isPublicKey(this.walletImport.WIF) &&
                 !this.neonWallet.isWIF(this.walletImport.WIF) &&
                 !this.neonWallet.isPrivateKey(this.walletImport.WIF)
             ) {

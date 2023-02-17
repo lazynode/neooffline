@@ -78,7 +78,7 @@
         "message": "Creating"
     },
     "enterWIF": {
-        "message": "Enter WIF(Private key)"
+        "message": "Enter WIF/Pubkey"
     },
     "enterEncryptedKey": {
         "message": "Enter Encrypted Key"
@@ -561,7 +561,7 @@
         "message": "Import Method"
     },
     "importKey": {
-        "message": "Private Key Import"
+        "message": "Key Import"
     },
     "importFile": {
         "message": "File Import"
